@@ -1,5 +1,5 @@
-- ⚡ @pmarkham3057
-- 💞️ Exploitation Analyst
+- @pmarkham3057
+- Exploitation Analyst
 
 <!---
 pmarkham3057/pmarkham3057 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
